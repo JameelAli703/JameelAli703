@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JameelAli703
-- 👀 I’m interested in Development
+- 👀 I’m a Java Developer.
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on Engineering.
-- 📫 How to reach me Using my email address.
+- 💞️ I’m working in Different Communities.
 
 <!---
 JameelAli703/JameelAli703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
