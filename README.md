@@ -27,19 +27,11 @@
 </a>
   &emsp;
 <a href="#">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  </a>
-  &emsp;
-<a href="#">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
   &emsp;
 <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  &emsp;
-<a href="#">
-    <img alt="React" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white"/>
   </a>
 &emsp;
 </p>
@@ -48,9 +40,6 @@
 <p > 
 
   <h3 >Framework and Tools</h3>  
-  <a href="#" target="_blank"> 
-     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-   </a>
    &emsp;
   <a href="#" target="_blank"> 
     <img alt="Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
@@ -59,14 +48,6 @@
   
   <a href="#" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
-  </a>
-&emsp;
- <a href="#" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white"/>
-  </a>
-&emsp;
- <a href="#" target="_blank"> 
-    <img alt="Node.Js" src="https://img.shields.io/badge/Node-68a063?style=for-the-badge&logo=Node&logoColor=white" />
   </a>
 &emsp;
 </p>
