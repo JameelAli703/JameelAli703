@@ -2,9 +2,9 @@
 
 <div align="center">
 <p>
-  🔭 I’m currently working on <b>Andriod Developement</b>
+  🔭 I’m currently working on <b>Mern Stack Development</b>
 
-🌱 I’m currently learning <b>Flutter Developement</b>
+🌱 I’m currently learning <b>Java Script & React</b>
 
 
 👯 I’m looking to collaborate on <b>Open source projects</b>
