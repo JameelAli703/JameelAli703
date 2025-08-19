@@ -2,7 +2,11 @@
 
 
 # 💫 About Me:
-<br>I am a versatile developer and tech enthusiast with a strong background in multiple programming languages and technologies. Over the years, I've honed my skills in Flutter, Node.js, Java, and JavaScript, working on various projects ranging from mobile app development to server-side applications. My journey in tech has been both broad and deep, allowing me to adapt quickly to new challenges and environments.<br><br>Currently, I am diving into the world of GNU/Linux, Shell Scripting, Ansible, Terraform, Docker, and Kubernetes. My focus is on mastering automation, orchestration, and infrastructure management. I'm passionate about building scalable, efficient, and secure systems, leveraging the best tools and practices in DevOps and cloud-native development.<br><br>With a solid foundation in both software development and modern DevOps practices, I am constantly exploring new ways to bridge the gap between development and operations, driving innovation and efficiency in every project I undertake.<br><br>
+<br>I am currently working as an Application Developer at Crescent Steel, where I work extensively with PL/SQL, Oracle APEX, Oracle ERP E-Business Suite (EBS), and Oracle Reports Builder to design, develop, and optimize enterprise applications. My role allows me to deliver efficient business solutions, automate processes, and enhance system performance within complex ERP environments.
+
+Alongside application development, I am also expanding my expertise as a Data Analyst, leveraging SQL to extract, analyze, and interpret data for actionable insights. My focus is on combining my application development background with strong analytical skills to support data-driven decision-making and drive business efficiency.
+
+With hands-on experience across enterprise systems, database management, and reporting, I am continuously growing towards becoming a well-rounded professional at the intersection of application development and data analytics.<br><br>
 
 
 ## 🌐 Socials:
